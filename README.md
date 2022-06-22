@@ -15,5 +15,5 @@ git push -u origin <var>ZONA-DNS</var>-record-<var>TIPO-DE-REGISTRO</var>-<var>N
 
 
 ```
-git commit -m "<var>ZONA-DNS</var>-record-<var>TIPO-DE-REGISTRO</var>-<var>NOME-DO-REGISTRO</var>"
+git commit -m "{{ ZONA-DNS }}-record-<var>TIPO-DE-REGISTRO</var>-<var>NOME-DO-REGISTRO</var>"
 ```
